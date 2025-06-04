@@ -12,8 +12,19 @@
 
 Here’s what I work with:
 
-- Languages: 
-  #### ![My Skills](https://skillicons.dev/icons?i=java,cpp,cs,python,js,html,css)
+- **Languages:**
+  
+  ![Java](https://img.shields.io/badge/Java-darkblue?style=flat&logo=openjdk) 
+  ![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=cplusplus&logoColor=white)
+  ![CSHARP]()
+  ![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoColor=white)
+  ![JS](https://img.shields.io/badge/Javascript-blue?style=flat&logo=javascript&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML-red?style=flat&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-darkblue?style=flat&logo=css&logoColor=white)
 
-- Frameworks: 
-
+-  **Backend:**
+  
+    ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-darkgreen?style=flat&logo=springboot)
+    ![dotnet](https://img.shields.io/badge/.NET-green?style=flat&logo=dotnet)
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-lightblue?style=flat&logo=postgresql)
+  
